@@ -11,6 +11,7 @@
   "sections": {
     "scrolling_text_YRUVrj": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "text": "Up to 35% OFF on Bundles and Value Packs! 🤩",
         "link": "shopify://collections/all",
