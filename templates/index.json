@@ -56,64 +56,9 @@
         "lazyload_images": true
       }
     },
-    "1d835d8a-0277-4c7f-ab87-b1790bf5f079": {
-      "type": "advanced-content",
-      "blocks": {
-        "template--19595009917277__1d835d8a-0277-4c7f-ab87-b1790bf5f079-image-1": {
-          "type": "image",
-          "settings": {
-            "link": "shopify://products/himalaya-liv-52-100-tablets",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "a6fb1351-a6c0-40ae-bb2b-3dc251c340fa": {
-          "type": "image",
-          "settings": {
-            "link": "shopify://products/himalaya-gum-expert-herbal-toothpaste-sparkly-white-75ml",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--19595009917277__1d835d8a-0277-4c7f-ab87-b1790bf5f079-image-1",
-        "a6fb1351-a6c0-40ae-bb2b-3dc251c340fa"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "space_around": false,
-        "lazyload_images": true
-      }
-    },
-    "b275d166-766e-4d47-86b8-24c7ca7dc53a": {
-      "type": "featured-collection",
-      "disabled": true,
-      "custom_css": [
-        "@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"
-      ],
-      "settings": {
-        "title": "Value Packs",
-        "home_featured_products": "value-packs",
-        "per_row": 5,
-        "rows": 2,
-        "mobile_scrollable": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "5c90961c-023a-43ff-a1b9-6c8084ba71fb": {
       "type": "advanced-content",
       "blocks": {
-        "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-image-1": {
-          "type": "image",
-          "settings": {
-            "link": "shopify://collections/single-sheet-mask",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
         "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-liquid-1": {
           "type": "liquid",
           "settings": {
@@ -121,13 +66,20 @@
             "width": "50%",
             "alignment": "center"
           }
+        },
+        "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-image-1": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://collections/single-sheet-mask",
+            "width": "50%",
+            "alignment": "center"
+          }
         }
       },
       "block_order": [
-        "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-image-1",
-        "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-liquid-1"
+        "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-liquid-1",
+        "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-image-1"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "space_around": true,
@@ -330,8 +282,6 @@
   "order": [
     "scrolling_text_YRUVrj",
     "slideshow_jhWV7V",
-    "1d835d8a-0277-4c7f-ab87-b1790bf5f079",
-    "b275d166-766e-4d47-86b8-24c7ca7dc53a",
     "5c90961c-023a-43ff-a1b9-6c8084ba71fb",
     "advanced_content_LJJm4q",
     "featured_collection_tAU4pg",
