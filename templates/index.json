@@ -56,77 +56,6 @@
         "lazyload_images": true
       }
     },
-    "advanced_content_eW3Rpx": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_JtjYEL": {
-          "type": "image",
-          "settings": {
-            "link": "shopify://collections/dark-spot-clearing-curcuma-range",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_JtjYEL"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": false,
-        "lazyload_images": true
-      }
-    },
-    "cac86e54-f145-4091-ae78-28f8406aae17": {
-      "type": "advanced-content",
-      "blocks": {
-        "template--19595009917277__cac86e54-f145-4091-ae78-28f8406aae17-image-1": {
-          "type": "image",
-          "settings": {
-            "link": "shopify://products/himalaya-partysmart-10-capsules",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--19595009917277__cac86e54-f145-4091-ae78-28f8406aae17-image-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "space_around": false,
-        "lazyload_images": true
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "custom_css": [
-        "@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"
-      ],
-      "settings": {
-        "title": "Most Popular",
-        "home_featured_products": "top-sellers",
-        "per_row": 4,
-        "rows": 3,
-        "mobile_scrollable": false,
-        "view_all": true,
-        "divider": true
-      }
-    },
-    "featured_collection_HT8kRQ": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Buy One Get One Free",
-        "home_featured_products": "buy-one-get-one-free",
-        "per_row": 5,
-        "rows": 2,
-        "mobile_scrollable": true,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "1d835d8a-0277-4c7f-ab87-b1790bf5f079": {
       "type": "advanced-content",
       "blocks": {
@@ -401,10 +330,6 @@
   "order": [
     "scrolling_text_YRUVrj",
     "slideshow_jhWV7V",
-    "advanced_content_eW3Rpx",
-    "cac86e54-f145-4091-ae78-28f8406aae17",
-    "featured-collection",
-    "featured_collection_HT8kRQ",
     "1d835d8a-0277-4c7f-ab87-b1790bf5f079",
     "b275d166-766e-4d47-86b8-24c7ca7dc53a",
     "5c90961c-023a-43ff-a1b9-6c8084ba71fb",
