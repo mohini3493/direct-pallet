@@ -1,1 +1,424 @@
-{"sections":{"scrolling_text_YRUVrj":{"type":"scrolling-text","disabled":true,"settings":{"text":"Up to 35% OFF on Bundles and Value Packs! 🤩","link":"shopify:\/\/collections\/all","text_size":20,"text_spacing":true,"direction":"left","speed":300}},"slideshow_jhWV7V":{"type":"slideshow","blocks":{"image_EVraHk":{"type":"image","disabled":true,"settings":{"top_subheading":"","title":"","title_size":80,"subheading":"","link":"shopify:\/\/collections\/all-products","link_text":"","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/Bundles-VP-UK-Web.jpg","image_mobile":"shopify:\/\/shop_images\/Bundles-VP-Mobile-UK.jpg","parallax_direction":"top","overlay_opacity":0}},"image_H3CgkE":{"type":"image","settings":{"top_subheading":"","title":"","title_size":80,"subheading":"","link":"shopify:\/\/collections\/organic-pure-herbs","link_text":"","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/EN_Himalaya_Organic_Pharma_banner_1920x650px_2025_V2_copy.png","image_mobile":"shopify:\/\/shop_images\/EN_Himalaya_Organic_Pharma_banner_1500px_2025_copy.jpg","parallax_direction":"top","overlay_opacity":0}},"image_tVWqUj":{"type":"image","settings":{"top_subheading":"","title":"","title_size":80,"subheading":"","link":"shopify:\/\/collections\/botanique-complete-care-toothpaste","link_text":"","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/EN_Oral_Care_Botanique_Range_banner_1920x650px_26.11_5.png","image_mobile":"shopify:\/\/shop_images\/MULTI_Oral_Care_Botanique_Range_banner_1500x1500px_26.11.2024_V1_1.png","parallax_direction":"top","overlay_opacity":0}},"image_4cM6MK":{"type":"image","settings":{"top_subheading":"","title":"","title_size":80,"subheading":"","link":"shopify:\/\/collections\/dark-spot-clearing-turmeric-range","link_text":"","link_2":"","link_text_2":"Shop all","color_accent":"#000000","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/EN_Himalaya_ad_Curcuma_1920x650px_22.01.2025_59b2be1e-4952-48fa-bb6e-7eb8d3d6fc0c.jpg","image_mobile":"shopify:\/\/shop_images\/EN_Himalaya_ad_Curcuma_1500px_22.01.2025.jpg","parallax_direction":"top","overlay_opacity":0}}},"block_order":["image_EVraHk","image_H3CgkE","image_tVWqUj","image_4cM6MK"],"settings":{"section_height":"natural","mobile_height":"auto","parallax":false,"style":"arrows","autoplay":true,"autoplay_speed":7,"lazyload_images":true}},"advanced_content_eW3Rpx":{"type":"advanced-content","blocks":{"image_JtjYEL":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Dark-Spor-Clearing-Curcuma-Range-Banner.jpg","link":"shopify:\/\/collections\/dark-spot-clearing-curcuma-range","width":"100%","alignment":"center"}}},"block_order":["image_JtjYEL"],"disabled":true,"settings":{"full_width":true,"space_around":false,"lazyload_images":true}},"cac86e54-f145-4091-ae78-28f8406aae17":{"type":"advanced-content","blocks":{"template--19595009917277__cac86e54-f145-4091-ae78-28f8406aae17-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/PartySmart-UK-Top-Banner.jpg","link":"shopify:\/\/products\/himalaya-partysmart-10-capsules","width":"100%","alignment":"center"}}},"block_order":["template--19595009917277__cac86e54-f145-4091-ae78-28f8406aae17-image-1"],"disabled":true,"settings":{"full_width":true,"space_around":false,"lazyload_images":true}},"featured-collection":{"type":"featured-collection","custom_css":["@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"],"settings":{"title":"Most Popular","home_featured_products":"top-sellers","per_row":4,"rows":3,"mobile_scrollable":false,"view_all":true,"divider":true}},"featured_collection_HT8kRQ":{"type":"featured-collection","disabled":true,"settings":{"title":"Buy One Get One Free","home_featured_products":"buy-one-get-one-free","per_row":5,"rows":2,"mobile_scrollable":true,"view_all":true,"divider":false}},"1d835d8a-0277-4c7f-ab87-b1790bf5f079":{"type":"advanced-content","blocks":{"template--19595009917277__1d835d8a-0277-4c7f-ab87-b1790bf5f079-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Liv.52-Banner.jpg","link":"shopify:\/\/products\/himalaya-liv-52-100-tablets","width":"50%","alignment":"center"}},"a6fb1351-a6c0-40ae-bb2b-3dc251c340fa":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/2_Branding_Sparkly_White.jpg","link":"shopify:\/\/products\/himalaya-gum-expert-herbal-toothpaste-sparkly-white-75ml","width":"50%","alignment":"center"}}},"block_order":["template--19595009917277__1d835d8a-0277-4c7f-ab87-b1790bf5f079-image-1","a6fb1351-a6c0-40ae-bb2b-3dc251c340fa"],"disabled":true,"settings":{"full_width":true,"space_around":false,"lazyload_images":true}},"b275d166-766e-4d47-86b8-24c7ca7dc53a":{"type":"featured-collection","disabled":true,"custom_css":["@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"],"settings":{"title":"Value Packs","home_featured_products":"value-packs","per_row":5,"rows":2,"mobile_scrollable":false,"view_all":true,"divider":false}},"5c90961c-023a-43ff-a1b9-6c8084ba71fb":{"type":"advanced-content","blocks":{"template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Sheet-Mask-B4G1-Offer-EN.jpg","link":"shopify:\/\/collections\/single-sheet-mask","width":"50%","alignment":"center"}},"template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-liquid-1":{"type":"liquid","settings":{"code":"<p style=\"text-align:left; padding-left: 4%; font-size: 18px; margin-bottom: 5px\">Terms and Conditions:<\/p>\n<ol style=\"text-align:left; padding-left: 4%;  font-size: 18px;\">\n<li>Use code FSM23 during checkout.<\/li>\n<li>Add a minimum of five sheet masks to the cart to avail the offer.<\/li>\n<li>This offer cannot be combined with bundles or other offers.<\/li>\n<\/ol>","width":"50%","alignment":"center"}}},"block_order":["template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-image-1","template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-liquid-1"],"disabled":true,"settings":{"full_width":true,"space_around":true,"lazyload_images":true}},"advanced_content_LJJm4q":{"type":"advanced-content","blocks":{"image_QddmXG":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/banner-5_26599fcc-576a-4b9d-af11-798b40d267ba.jpg","link":"shopify:\/\/collections\/vitamin-c-range","width":"50%","alignment":"center"}},"image_XtD3HW":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Partysmart_banner.jpg","link":"shopify:\/\/products\/himalaya-partysmart-10-capsules","width":"50%","alignment":"center"}}},"block_order":["image_QddmXG","image_XtD3HW"],"settings":{"full_width":true,"space_around":true,"lazyload_images":true}},"featured_collection_tAU4pg":{"type":"featured-collection","settings":{"title":"New Launches","home_featured_products":"new-launches","per_row":4,"rows":1,"mobile_scrollable":false,"view_all":true,"divider":false}},"featured_collection_Dppn7w":{"type":"featured-collection","settings":{"title":"Himalaya Dark Spot Clearing Range","home_featured_products":"dark-spot-clearing-turmeric-range","per_row":4,"rows":1,"mobile_scrollable":false,"view_all":true,"divider":false}},"advanced_content_wMYXHf":{"type":"advanced-content","blocks":{"image_AHiF7A":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/OPH-Range-Banner-EN-1944x800.jpg","link":"shopify:\/\/collections\/organic-pure-herbs","width":"100%","alignment":"center"}}},"block_order":["image_AHiF7A"],"settings":{"full_width":true,"space_around":true,"lazyload_images":true}},"ef135076-bc1f-4595-a6f4-9608f2c377b1":{"type":"featured-collection","custom_css":["@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"],"settings":{"title":"Toothpastes","home_featured_products":"toothpastes","per_row":4,"rows":2,"mobile_scrollable":false,"view_all":true,"divider":false}},"cca4b04e-f079-4d68-963d-2dd31866f8b4":{"type":"advanced-content","blocks":{"template--19595009917277__cca4b04e-f079-4d68-963d-2dd31866f8b4-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/AWC-banner-4_RANGE.jpg","link":"https:\/\/himalayawellness.uk.com\/collections\/face-care?filter.p.product_type=Face+Cream","width":"50%","alignment":"center"}},"53c73f0b-e218-45dd-8a54-04887ea41125":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Cream-Range-Banner-2_e10f3da8-47c4-46c5-9584-6cac5ed67de4.webp","link":"shopify:\/\/collections\/body-cream","width":"50%","alignment":"center"}}},"block_order":["template--19595009917277__cca4b04e-f079-4d68-963d-2dd31866f8b4-image-1","53c73f0b-e218-45dd-8a54-04887ea41125"],"settings":{"full_width":true,"space_around":true,"lazyload_images":true}},"267bdee4-133a-4b7b-a534-f56495adc645":{"type":"featured-collection","custom_css":["@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"],"settings":{"title":"Personal Care","home_featured_products":"personal-care","per_row":4,"rows":2,"mobile_scrollable":false,"view_all":true,"divider":false}},"f2474141-32da-42b0-95b3-7f07ce61d8d7":{"type":"slideshow","blocks":{"template--19595009917277__f2474141-32da-42b0-95b3-7f07ce61d8d7-image-1":{"type":"image","settings":{"top_subheading":"","title":"","title_size":80,"subheading":"","link":"shopify:\/\/products\/himalaya-partysmart-10-capsules","link_text":"","link_2":"","link_text_2":"","color_accent":"rgba(0,0,0,0)","text_align":"vertical-center horizontal-center","image":"shopify:\/\/shop_images\/PartySmart-Web-Banner_0f1d112d-378d-4cc1-adf8-76381cd49077.webp","image_mobile":"shopify:\/\/shop_images\/PartySmart-Web-Banner_0f1d112d-378d-4cc1-adf8-76381cd49077.webp","parallax_direction":"top","overlay_opacity":0}}},"block_order":["template--19595009917277__f2474141-32da-42b0-95b3-7f07ce61d8d7-image-1"],"disabled":true,"settings":{"section_height":"550px","mobile_height":"auto","parallax":false,"style":"bars","autoplay":true,"autoplay_speed":5,"lazyload_images":true}},"40ca7201-2aef-4c75-9c99-35505a84292b":{"type":"featured-collection","custom_css":["@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"],"settings":{"title":"Supplements","home_featured_products":"supplements","per_row":4,"rows":3,"mobile_scrollable":false,"view_all":true,"divider":false}},"169441078568ab57e8":{"type":"apps","blocks":{"89336a1e-b2ff-4b29-946c-5bd5511ede37":{"type":"shopify:\/\/apps\/fera\/blocks\/store_reviews_summary\/2fbfcfa7-8a04-479f-89a8-0621fa099c51","settings":{"color_scheme":"light","star_color":"#ffd84f","text_color":"#1d1d1d"}},"636c25e7-eb40-4fa0-8c8d-98bf2241702a":{"type":"shopify:\/\/apps\/fera\/blocks\/all_reviews\/2fbfcfa7-8a04-479f-89a8-0621fa099c51","settings":{"heading":"Customer Reviews","layout":"masonry","star_color":"#ffd84f","types_to_show":"both"}},"2989e72d-1904-4af6-ad25-f5b9d6ae4344":{"type":"shopify:\/\/apps\/searchanise-upsell\/blocks\/upsell_new_products\/be916d2f-a9b6-4f13-a881-f71af667d5ea","disabled":true,"settings":{"upsellWidgetUniqueKey":"bolideai-ucs-pihxccvsyjylsah"}}},"block_order":["89336a1e-b2ff-4b29-946c-5bd5511ede37","636c25e7-eb40-4fa0-8c8d-98bf2241702a","2989e72d-1904-4af6-ad25-f5b9d6ae4344"],"settings":{"full_width":false,"space_around":true}}},"order":["scrolling_text_YRUVrj","slideshow_jhWV7V","advanced_content_eW3Rpx","cac86e54-f145-4091-ae78-28f8406aae17","featured-collection","featured_collection_HT8kRQ","1d835d8a-0277-4c7f-ab87-b1790bf5f079","b275d166-766e-4d47-86b8-24c7ca7dc53a","5c90961c-023a-43ff-a1b9-6c8084ba71fb","advanced_content_LJJm4q","featured_collection_tAU4pg","featured_collection_Dppn7w","advanced_content_wMYXHf","ef135076-bc1f-4595-a6f4-9608f2c377b1","cca4b04e-f079-4d68-963d-2dd31866f8b4","267bdee4-133a-4b7b-a534-f56495adc645","f2474141-32da-42b0-95b3-7f07ce61d8d7","40ca7201-2aef-4c75-9c99-35505a84292b","169441078568ab57e8"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "scrolling_text_YRUVrj": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "text": "Up to 35% OFF on Bundles and Value Packs! 🤩",
+        "link": "shopify://collections/all",
+        "text_size": 20,
+        "text_spacing": true,
+        "direction": "left",
+        "speed": 300
+      }
+    },
+    "slideshow_jhWV7V": {
+      "type": "slideshow",
+      "blocks": {
+        "image_EVraHk": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "AMERICA’S LEADING WAREHOUSE STORAGE EXPERTS",
+            "title_size": 52,
+            "subheading": "Don’t Settle for Less. Get the Best Racking Solution Now",
+            "link": "shopify://collections/all-products",
+            "link_text": "Contact US",
+            "link_2": "",
+            "link_text_2": "Shop Now",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify://shop_images/bccc65106a5eed76b52d6da1c3e9d05b_Expires_174398400.webp",
+            "image_mobile": "shopify://shop_images/bccc65106a5eed76b52d6da1c3e9d05b_Expires_174398400.webp",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_EVraHk"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_eW3Rpx": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_JtjYEL": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://collections/dark-spot-clearing-curcuma-range",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_JtjYEL"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "cac86e54-f145-4091-ae78-28f8406aae17": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--19595009917277__cac86e54-f145-4091-ae78-28f8406aae17-image-1": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://products/himalaya-partysmart-10-capsules",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19595009917277__cac86e54-f145-4091-ae78-28f8406aae17-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        "@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"
+      ],
+      "settings": {
+        "title": "Most Popular",
+        "home_featured_products": "top-sellers",
+        "per_row": 4,
+        "rows": 3,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": true
+      }
+    },
+    "featured_collection_HT8kRQ": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Buy One Get One Free",
+        "home_featured_products": "buy-one-get-one-free",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1d835d8a-0277-4c7f-ab87-b1790bf5f079": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--19595009917277__1d835d8a-0277-4c7f-ab87-b1790bf5f079-image-1": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://products/himalaya-liv-52-100-tablets",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "a6fb1351-a6c0-40ae-bb2b-3dc251c340fa": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://products/himalaya-gum-expert-herbal-toothpaste-sparkly-white-75ml",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19595009917277__1d835d8a-0277-4c7f-ab87-b1790bf5f079-image-1",
+        "a6fb1351-a6c0-40ae-bb2b-3dc251c340fa"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "space_around": false,
+        "lazyload_images": true
+      }
+    },
+    "b275d166-766e-4d47-86b8-24c7ca7dc53a": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        "@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"
+      ],
+      "settings": {
+        "title": "Value Packs",
+        "home_featured_products": "value-packs",
+        "per_row": 5,
+        "rows": 2,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "5c90961c-023a-43ff-a1b9-6c8084ba71fb": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-image-1": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://collections/single-sheet-mask",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-liquid-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p style=\"text-align:left; padding-left: 4%; font-size: 18px; margin-bottom: 5px\">Terms and Conditions:</p>\n<ol style=\"text-align:left; padding-left: 4%;  font-size: 18px;\">\n<li>Use code FSM23 during checkout.</li>\n<li>Add a minimum of five sheet masks to the cart to avail the offer.</li>\n<li>This offer cannot be combined with bundles or other offers.</li>\n</ol>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-image-1",
+        "template--19595009917277__5c90961c-023a-43ff-a1b9-6c8084ba71fb-liquid-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_LJJm4q": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_QddmXG": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://collections/vitamin-c-range",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "image_XtD3HW": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://products/himalaya-partysmart-10-capsules",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_QddmXG",
+        "image_XtD3HW"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "featured_collection_tAU4pg": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Launches",
+        "home_featured_products": "new-launches",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured_collection_Dppn7w": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Himalaya Dark Spot Clearing Range",
+        "home_featured_products": "dark-spot-clearing-turmeric-range",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "advanced_content_wMYXHf": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_AHiF7A": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://collections/organic-pure-herbs",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_AHiF7A"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "ef135076-bc1f-4595-a6f4-9608f2c377b1": {
+      "type": "featured-collection",
+      "custom_css": [
+        "@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"
+      ],
+      "settings": {
+        "title": "Toothpastes",
+        "home_featured_products": "toothpastes",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "cca4b04e-f079-4d68-963d-2dd31866f8b4": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--19595009917277__cca4b04e-f079-4d68-963d-2dd31866f8b4-image-1": {
+          "type": "image",
+          "settings": {
+            "link": "https://himalayawellness.uk.com/collections/face-care?filter.p.product_type=Face+Cream",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "53c73f0b-e218-45dd-8a54-04887ea41125": {
+          "type": "image",
+          "settings": {
+            "link": "shopify://collections/body-cream",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19595009917277__cca4b04e-f079-4d68-963d-2dd31866f8b4-image-1",
+        "53c73f0b-e218-45dd-8a54-04887ea41125"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "267bdee4-133a-4b7b-a534-f56495adc645": {
+      "type": "featured-collection",
+      "custom_css": [
+        "@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"
+      ],
+      "settings": {
+        "title": "Personal Care",
+        "home_featured_products": "personal-care",
+        "per_row": 4,
+        "rows": 2,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "f2474141-32da-42b0-95b3-7f07ce61d8d7": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19595009917277__f2474141-32da-42b0-95b3-7f07ce61d8d7-image-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "shopify://products/himalaya-partysmart-10-capsules",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "parallax_direction": "top",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "template--19595009917277__f2474141-32da-42b0-95b3-7f07ce61d8d7-image-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "lazyload_images": true
+      }
+    },
+    "40ca7201-2aef-4c75-9c99-35505a84292b": {
+      "type": "featured-collection",
+      "custom_css": [
+        "@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"
+      ],
+      "settings": {
+        "title": "Supplements",
+        "home_featured_products": "supplements",
+        "per_row": 4,
+        "rows": 3,
+        "mobile_scrollable": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "169441078568ab57e8": {
+      "type": "apps",
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    }
+  },
+  "order": [
+    "scrolling_text_YRUVrj",
+    "slideshow_jhWV7V",
+    "advanced_content_eW3Rpx",
+    "cac86e54-f145-4091-ae78-28f8406aae17",
+    "featured-collection",
+    "featured_collection_HT8kRQ",
+    "1d835d8a-0277-4c7f-ab87-b1790bf5f079",
+    "b275d166-766e-4d47-86b8-24c7ca7dc53a",
+    "5c90961c-023a-43ff-a1b9-6c8084ba71fb",
+    "advanced_content_LJJm4q",
+    "featured_collection_tAU4pg",
+    "featured_collection_Dppn7w",
+    "advanced_content_wMYXHf",
+    "ef135076-bc1f-4595-a6f4-9608f2c377b1",
+    "cca4b04e-f079-4d68-963d-2dd31866f8b4",
+    "267bdee4-133a-4b7b-a534-f56495adc645",
+    "f2474141-32da-42b0-95b3-7f07ce61d8d7",
+    "40ca7201-2aef-4c75-9c99-35505a84292b",
+    "169441078568ab57e8"
+  ]
+}
