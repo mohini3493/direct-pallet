@@ -86,6 +86,15 @@
             "container_width": 30
           }
         },
+        "custom_iQ6Wz7": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": false,
+            "title": "Custom text",
+            "text": "",
+            "container_width": 95
+          }
+        },
         "dd118cb1-e0d0-4a6c-948a-5a5ebc422c42": {
           "type": "custom",
           "settings": {
@@ -128,6 +137,7 @@
         "footer-0",
         "footer-1",
         "custom_3WjXdb",
+        "custom_iQ6Wz7",
         "dd118cb1-e0d0-4a6c-948a-5a5ebc422c42",
         "menu_B4fLeT",
         "44f0fda4-1952-46b2-acbf-072a9be05edf",
