@@ -55,4 +55,5 @@ body {
 .btn:hover {
   background-position: 100%;
   transform: translateY(-0.5rem);
+  color:#fff;
 }
