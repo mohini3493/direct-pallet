@@ -1,10 +1,12 @@
 @charset "UTF-8";
 
-/*!
-  Impulse, by Archetype Themes
-  http://archetypethemes.co
-*/
-
+@font-face {
+  font-family: "trade-gothic-next-lt-pro-bdcn";
+  src: url("{{ 'trade-gothic-next-lt-pro-bdcn' | file_url }}") format("ttf");
+}
+:root {
+    --typeHeaderPrimary: "trade-gothic-next-lt-pro-bdcn" !important;
+}
 @media only screen and (min-width:769px){
   :root{
     --grid-gutter:22px;
