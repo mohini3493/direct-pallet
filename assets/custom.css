@@ -2,6 +2,10 @@
     font-family: 'Aptos';
     src: url('{{ 'Aptos.woff' | asset_url }}') format('woff');
 }
+@font-face {
+    font-family: 'Trade';
+    src: url('{{ 'Trade Gothic Next LT Pro BdCn.woff' | asset_url }}') format('woff');
+}
 body {
     font-family: 'Aptos', sans-serif;
 }
