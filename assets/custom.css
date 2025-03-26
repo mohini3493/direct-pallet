@@ -2,6 +2,9 @@
   font-family: "trade-gothic-next-lt-pro-bdcn";
   src: url("{{ 'trade-gothic-next-lt-pro-bdcn' | file_url }}") format("ttf");
 }
-:root {
-    --typeHeaderPrimary: "trade-gothic-next-lt-pro-bdcn" !important;
+.hero__title{
+  font-family: "trade-gothic-next-lt-pro-bdcn" !important;
+}
+.h1, .h2, .h3, h1, h2, h3{
+  font-family: "trade-gothic-next-lt-pro-bdcn" !important;
 }
