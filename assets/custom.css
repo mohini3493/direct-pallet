@@ -12,3 +12,15 @@ body {
 .h1, .h2, .h3, h1, h2, h3{
   font-family: 'Trade', sans-serif;
 }
+.hero__text-shadow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.slideshow__slide--image_EVraHk .hero__title {
+  width: 90%;
+}
+.hero__subtitle {
+    margin-bottom: 75px;
+    margin-top: 15px;
+}
