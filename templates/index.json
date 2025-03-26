@@ -251,6 +251,48 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_and_image_wjV9BV": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/image_92fd7b27-f6dd-4184-89ec-5e65e06875fa.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "Long Buying Processes and Lead Times Are Holding You Back",
+        "text": "<p>In the warehouse industry, time is money. Yet, many businesses face unnecessary delays when trying to secure the right storage solutions.<br/>Between drawn-out quoting processes, multiple back-and-forths, and suppliers who are slow to act, companies find themselves stuck waiting for weeks—sometimes months—before they can even begin to solve their storage problems. And once you finally place an order, long lead times push back your installation, leaving your operations in limbo and your warehouse underperforming.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_k9JgYc": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/image_ec31015d-e4de-4f0a-85d9-8cceb7983731.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Expertice",
+        "title": "End to End Project Management",
+        "text": "<p>From concept to permits to execution, we handle every step, so you don’t have to. No compliance issues. No unnecessary complexity. Just fast, seamless project completion. With Direct Pallet Racking, your project stays on track and gets done without delays.<br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -262,6 +304,8 @@
     "text_and_image_xmmHpK",
     "text_and_image_Ccf838",
     "text_and_image_nyhmCK",
-    "text_and_image_iQR9RK"
+    "text_and_image_iQR9RK",
+    "text_and_image_wjV9BV",
+    "text_and_image_k9JgYc"
   ]
 }
