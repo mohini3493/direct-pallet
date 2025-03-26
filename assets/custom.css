@@ -61,6 +61,7 @@ body {
   font-size:18px !important;
   line-height:22px !important;
   font-family: 'Aptos-600', sans-serif !important;
+  font-weight:600;
 }
 .site-nav__link--underline:after {
     border-bottom-color: #1493F5;
