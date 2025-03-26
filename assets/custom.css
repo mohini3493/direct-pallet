@@ -49,3 +49,7 @@ body {
   text-transform: capitalize;
   min-width:204px;
 }
+.btn:hover {
+  background-position: 100%;
+  transform: translateY(-0.5rem);
+}
