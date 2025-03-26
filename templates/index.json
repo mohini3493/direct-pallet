@@ -293,6 +293,88 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "faq_wDp3Ba": {
+      "type": "faq",
+      "blocks": {
+        "question_WEVpQV": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer used inventory?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_U7ifHy": {
+          "type": "question",
+          "settings": {
+            "title": "Do you only provide racking systems?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_wi7GND": {
+          "type": "question",
+          "settings": {
+            "title": "Does it take a long time to get permits for racking installations?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_88DkAb": {
+          "type": "question",
+          "settings": {
+            "title": "Do you outsource any of your work?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_mhbBii": {
+          "type": "question",
+          "settings": {
+            "title": "Can you help with warehouse automation and optimization?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_7cWdik": {
+          "type": "question",
+          "settings": {
+            "title": "Do you charge for drawings?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_g7A7bj": {
+          "type": "question",
+          "settings": {
+            "title": "Do you offer warranties on your racking systems?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_R4tE7w": {
+          "type": "question",
+          "settings": {
+            "title": "How soon can you install new projects?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "question_FPHJjy": {
+          "type": "question",
+          "settings": {
+            "title": "Where are you located? Do you work only in Texas or do you offer national service?",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_WEVpQV",
+        "question_U7ifHy",
+        "question_wi7GND",
+        "question_88DkAb",
+        "question_mhbBii",
+        "question_7cWdik",
+        "question_g7A7bj",
+        "question_R4tE7w",
+        "question_FPHJjy"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions"
+      }
     }
   },
   "order": [
@@ -306,6 +388,7 @@
     "text_and_image_nyhmCK",
     "text_and_image_iQR9RK",
     "text_and_image_wjV9BV",
-    "text_and_image_k9JgYc"
+    "text_and_image_k9JgYc",
+    "faq_wDp3Ba"
   ]
 }
