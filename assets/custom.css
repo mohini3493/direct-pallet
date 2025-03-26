@@ -62,3 +62,6 @@ body {
   line-height:22px;
   font-family: 'Aptos-600', sans-serif;
 }
+.site-nav__link--underline:after {
+    border-bottom-color: #1493F5;
+}
