@@ -66,7 +66,7 @@ body {
 .site-nav__link--underline:after {
     border-bottom-color: #1493F5;
 }
-.hero__link:last-child .btn{
+.hero__link>a:last-child{
   color:#1493F5;
   background:#ffffff;
 }
