@@ -188,6 +188,69 @@
         "bottom_padding": true,
         "lazyload_images": true
       }
+    },
+    "text_and_image_Ccf838": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/image.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Speed",
+        "title": "No Downtime, Just Results!",
+        "text": "<p>With rapid design and installation, you’ll experience minimal downtime. No delays, no stock issues—get your racking faster and avoid costly disruptions. Get back to business quickly with optimized storage solutions that keep your operations running smoothly. Use Direct Pallet Racking to streamline your projects and stay ahead of the competition.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_nyhmCK": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/image_c11e0137-1e02-4506-96e2-9281bbdacd4f.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Experience",
+        "title": "Over 1000 Successful Projects",
+        "text": "<p>We’ve designed and installed storage solutions in over 1000 warehouses nationwide.<br/>Proven expertise that delivers results, every time, no matter the scale or complexity of your project.</p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "right",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
+    },
+    "text_and_image_iQR9RK": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify://shop_images/image_ec31015d-e4de-4f0a-85d9-8cceb7983731.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "Expertice",
+        "title": "End to End Project Management",
+        "text": "<p>From concept to permits to execution, we handle every step, so you don’t have to. No compliance issues. No unnecessary complexity. Just fast, seamless project completion. With Direct Pallet Racking, your project stays on track and gets done without delays.<br/></p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "50",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -196,6 +259,9 @@
     "rich_text_9DTJEK",
     "text_columns_HCGytT",
     "5c90961c-023a-43ff-a1b9-6c8084ba71fb",
-    "text_and_image_xmmHpK"
+    "text_and_image_xmmHpK",
+    "text_and_image_Ccf838",
+    "text_and_image_nyhmCK",
+    "text_and_image_iQR9RK"
   ]
 }
