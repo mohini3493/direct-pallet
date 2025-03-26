@@ -68,5 +68,5 @@ body {
 }
 .hero__link>a:last-child{
   color:#1493F5;
-  background:#ffffff;
+  background:#ffffff !important;
 }
