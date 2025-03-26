@@ -80,7 +80,7 @@
         "text_bQGXmL"
       ],
       "custom_css": [
-        ".theme-block {width: 65%; margin-bottom:15px;}",
+        ".theme-block {width: 65%; margin: 0 auto 15px;}",
         "h2 {font-size: 46px; line-height: 46px;}",
         "p {font-size: 20px; line-height: 20px;}"
       ],
