@@ -91,43 +91,46 @@
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/image_3_7cc2c689-185e-4984-bb69-41faa2542fdc.png",
             "image_mask": "none",
-            "image_width": 650,
+            "image_width": 60,
             "title": "WAREHOUSE DESIGN",
             "text": "<p>Expert Space-Planning Consultation for your specific needs.</p>",
             "button_label": "Explore",
             "button_link": "#"
           }
         },
-        "text_block_Mt3dPt": {
+        "text_block_jxxrcW": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/image_4.png",
             "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "image_width": 60,
+            "title": "RACKING & STORAGE",
+            "text": "<p>A Broad Selection of Products for a Customized Storage System.</p>",
+            "button_label": "Explore",
+            "button_link": "#"
           }
         },
-        "text_block_YnadzN": {
+        "text_block_qppGii": {
           "type": "text_block",
           "settings": {
             "enable_image": true,
+            "image": "shopify://shop_images/image_5.png",
             "image_mask": "none",
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "image_width": 60,
+            "title": "INSTALLATION",
+            "text": "<p>Installation Services for a every size project and repairs.</p>",
+            "button_label": "Explore",
+            "button_link": "#"
           }
         }
       },
       "block_order": [
         "text_block_i4CGRe",
-        "text_block_Mt3dPt",
-        "text_block_YnadzN"
+        "text_block_jxxrcW",
+        "text_block_qppGii"
       ],
       "settings": {
         "title": "",
