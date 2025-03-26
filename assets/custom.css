@@ -33,6 +33,9 @@ body {
 .site-nav__link--icon {
     display: none;
 }
+.site-header {
+    padding: 12px 0;
+}
 .btn{
   background:#1493F5;
   color:#ffffff;
