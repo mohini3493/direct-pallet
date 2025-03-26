@@ -66,19 +66,46 @@
           "settings": {
             "logo": "shopify://shop_images/image_3.png",
             "desktop_logo_height": 50,
-            "container_width": 95
+            "container_width": 33
           }
         },
         "footer-1": {
           "type": "menu",
           "settings": {
-            "show_footer_title": true,
+            "show_footer_title": false,
+            "menu": "main-menu",
+            "container_width": 30
+          }
+        },
+        "custom_3WjXdb": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": false,
+            "title": "Custom text",
+            "text": "<p><strong>888-979-9824</strong></p>",
+            "container_width": 30
+          }
+        },
+        "dd118cb1-e0d0-4a6c-948a-5a5ebc422c42": {
+          "type": "custom",
+          "settings": {
+            "show_footer_title": false,
+            "title": "Custom text",
+            "text": "<p>© Company Name. All rights reserved.</p>",
+            "container_width": 50
+          }
+        },
+        "menu_B4fLeT": {
+          "type": "menu",
+          "settings": {
+            "show_footer_title": false,
             "menu": "footer",
-            "container_width": 29
+            "container_width": 50
           }
         },
         "44f0fda4-1952-46b2-acbf-072a9be05edf": {
           "type": "custom",
+          "disabled": true,
           "settings": {
             "show_footer_title": true,
             "title": "CONTACT US",
@@ -88,29 +115,23 @@
         },
         "footer2": {
           "type": "newsletter",
+          "disabled": true,
           "settings": {
             "show_footer_title": true,
             "title": "Sign up and save",
             "text": "<p>Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.</p>",
             "container_width": 33
           }
-        },
-        "dd118cb1-e0d0-4a6c-948a-5a5ebc422c42": {
-          "type": "custom",
-          "settings": {
-            "show_footer_title": false,
-            "title": "Custom text",
-            "text": "<p><strong>© 2025 Himalaya Wellness Poland Sp. z o o. All rights reserved.</strong></p>",
-            "container_width": 95
-          }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
+        "custom_3WjXdb",
+        "dd118cb1-e0d0-4a6c-948a-5a5ebc422c42",
+        "menu_B4fLeT",
         "44f0fda4-1952-46b2-acbf-072a9be05edf",
-        "footer2",
-        "dd118cb1-e0d0-4a6c-948a-5a5ebc422c42"
+        "footer2"
       ],
       "custom_css": [
         ".footer__small-text {display: none;}",
@@ -120,7 +141,7 @@
         "show_locale_selector": false,
         "show_currency_selector": false,
         "show_currency_flags": false,
-        "show_payment_icons": true,
+        "show_payment_icons": false,
         "show_copyright": false,
         "copyright_text": ""
       }
