@@ -168,24 +168,24 @@
         "lazyload_images": true
       }
     },
-    "advanced_content_wMYXHf": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_AHiF7A": {
-          "type": "image",
-          "settings": {
-            "link": "shopify://collections/organic-pure-herbs",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_AHiF7A"
-      ],
+    "text_and_image_xmmHpK": {
+      "type": "text-and-image",
       "settings": {
-        "full_width": true,
-        "space_around": true,
+        "image": "shopify://shop_images/image_6.png",
+        "image_mask": "none",
+        "image2_mask": "none",
+        "subtitle": "",
+        "title": "NEXT DAY DELIVERY AT THE SPEED YOU NEED",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "image_width": "33",
+        "layout": "left",
+        "divider": false,
+        "top_padding": true,
+        "bottom_padding": true,
         "lazyload_images": true
       }
     }
@@ -196,6 +196,6 @@
     "rich_text_9DTJEK",
     "text_columns_HCGytT",
     "5c90961c-023a-43ff-a1b9-6c8084ba71fb",
-    "advanced_content_wMYXHf"
+    "text_and_image_xmmHpK"
   ]
 }
