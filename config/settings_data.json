@@ -10,7 +10,7 @@
 {
   "current": {
     "color_body_bg": "#ffffff",
-    "color_body_text": "#000000",
+    "color_body_text": "#111111",
     "color_price": "#48cab2",
     "color_savings_text": "#ff4e4e",
     "color_borders": "#e8e8e1",
@@ -25,7 +25,7 @@
     "color_announcement": "#1493f5",
     "color_announcement_text": "#ffffff",
     "color_footer": "#fbfbfb",
-    "color_footer_text": "#66765f",
+    "color_footer_text": "#111111",
     "color_drawer_background": "#ffffff",
     "color_drawer_text": "#66765f",
     "color_drawer_border": "#e8e8e1",
