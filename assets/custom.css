@@ -47,4 +47,5 @@ body {
   font-family: 'Aptos-600', sans-serif;
   letter-spacing:0;
   text-transform: capitalize;
+  min-width:204px;
 }
