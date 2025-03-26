@@ -1,6 +1,6 @@
 @font-face {
   font-family: "trade-gothic-next-lt-pro-bdcn";
-  src: url("{{ 'trade-gothic-next-lt-pro-bdcn' | file_url }}") format("ttf");
+  src: url("https://cdn.shopify.com/s/files/1/0936/4740/5348/files/trade-gothic-next-lt-pro-bdcn.ttf?v=1742970042") format("ttf");
 }
 .hero__title{
   font-family: "trade-gothic-next-lt-pro-bdcn" !important;
