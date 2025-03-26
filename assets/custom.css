@@ -37,7 +37,7 @@ body {
     padding: 12px 0;
 }
 .btn{
-  background:#1493F5;
+  background:#1493F5 !important;
   color:#ffffff;
   padding:15px 50px;
   border:0;
