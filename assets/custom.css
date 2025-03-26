@@ -6,6 +6,7 @@
 ::after {
   position: absolute;
   content: "";
+  z-index:-1;
 }
 .btn {
   position: relative;
