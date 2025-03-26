@@ -48,6 +48,7 @@ body {
   letter-spacing:0;
   text-transform: capitalize;
   min-width:204px;
+  transition: all 0.6s;
 }
 .btn:hover {
   background-position: 100%;
