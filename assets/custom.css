@@ -57,3 +57,8 @@ body {
   transform: translateY(-0.5rem);
   color:#111;
 }
+.btn--small{
+  font-size:18px;
+  line-height:22px;
+  font-family: 'Aptos-600', sans-serif;
+}
