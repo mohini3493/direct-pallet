@@ -58,9 +58,9 @@ body {
   color:#111;
 }
 .btn--small{
-  font-size:18px;
-  line-height:22px;
-  font-family: 'Aptos-600', sans-serif;
+  font-size:18px !important;
+  line-height:22px !important;
+  font-family: 'Aptos-600', sans-serif !important;
 }
 .site-nav__link--underline:after {
     border-bottom-color: #1493F5;
