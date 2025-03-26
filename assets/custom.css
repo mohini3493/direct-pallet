@@ -39,4 +39,5 @@ body {
   line-height:22px;
   font-family: 'Aptos-600', sans-serif;
   letter-spacing:0;
+  text-transform: capitalize;
 }
