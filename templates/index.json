@@ -376,6 +376,60 @@
         "title": "Frequently Asked Questions"
       }
     },
+    "text_columns_dzj4G4": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_6LCmVf": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/image_dfc04a57-927b-4b35-872a-5ebc9996329f.png",
+            "image_mask": "none",
+            "image_width": 420,
+            "title": "Patrick, Operations Manager",
+            "text": "<p>\"A customer here! Great service<br/>from Direct Pallet Racking. Fast and effective communication.\"</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_Efzz7g": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/image_dfc04a57-927b-4b35-872a-5ebc9996329f.png",
+            "image_mask": "none",
+            "image_width": 420,
+            "title": "Patrick, Operations Manager",
+            "text": "<p>\"A customer here! Great service<br/>from Direct Pallet Racking. Fast and effective communication.\"</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_block_bthCKa": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify://shop_images/image_dfc04a57-927b-4b35-872a-5ebc9996329f.png",
+            "image_mask": "none",
+            "image_width": 420,
+            "title": "Patrick, Operations Manager",
+            "text": "<p>\"A customer here! Great service<br/>from Direct Pallet Racking. Fast and effective communication.\"</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_6LCmVf",
+        "text_block_Efzz7g",
+        "text_block_bthCKa"
+      ],
+      "settings": {
+        "title": "TESTIMONIALS",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "contact_form_XWE6VG": {
       "type": "contact-form",
       "settings": {
@@ -521,6 +575,7 @@
     "text_and_image_wjV9BV",
     "text_and_image_k9JgYc",
     "faq_wDp3Ba",
+    "text_columns_dzj4G4",
     "contact_form_XWE6VG",
     "rich_text_7mk9gp",
     "text_with_icons_hd4Kha",
