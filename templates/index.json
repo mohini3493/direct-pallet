@@ -384,6 +384,128 @@
         "show_phone": true,
         "narrow_column": true
       }
+    },
+    "rich_text_7mk9gp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WF6jQR": {
+          "type": "heading",
+          "settings": {
+            "title": "What You Get with Direct Pallet Racking"
+          }
+        },
+        "text_iGbTra": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>When you partner with us, you’re not just getting a product—you’re getting a full-service solution designed to elevate your warehouse operations. Here’s what you can expect:</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WF6jQR",
+        "text_iGbTra"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_with_icons_hd4Kha": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_DkBf9m": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Fast Quotes in 24 Hours",
+            "text": "<p>No waiting weeks for a quote. Get your customized quote fast so you can start planning immediately.</p>"
+          }
+        },
+        "text_block_wLaqpe": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Detailed Drawings in 24 Hours",
+            "text": "<p>Visualize your system with precise CAD drawings, delivered within a day.</p>"
+          }
+        },
+        "text_block_HcHTj4": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Installation in a Week",
+            "text": "<p>We’ll have your system installed and fully operational faster than anyone else in the industry.</p>"
+          }
+        },
+        "text_block_k6EKhc": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Always In-Stock Products",
+            "text": "<p>No more waiting on backorders. Our racking systems are always available and ready to go.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_DkBf9m",
+        "text_block_wLaqpe",
+        "text_block_HcHTj4",
+        "text_block_k6EKhc"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "desktop_columns_per_row": 4,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
+    },
+    "text_with_icons_xz4dYb": {
+      "type": "text-with-icons",
+      "blocks": {
+        "text_block_WC89Fd": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Custom Solutions for Your Needs",
+            "text": "<p>Whether it’s pallet racks, cantilever, or dynamic systems, we tailor everything to fit your specific storage challenges.</p>"
+          }
+        },
+        "text_block_CeiXQn": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Top-Notch Safety and Durability",
+            "text": "<p>Our racking systems are built tough to withstand heavy loads and long-term use, ensuring maximum safety & performance.</p>"
+          }
+        },
+        "text_block_qkd9h9": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Expert Guidance from Start to Finish",
+            "text": "<p>From consultation to installation, our team handles every detail with expertise and efficiency.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_block_WC89Fd",
+        "text_block_CeiXQn",
+        "text_block_qkd9h9"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "left",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -399,6 +521,9 @@
     "text_and_image_wjV9BV",
     "text_and_image_k9JgYc",
     "faq_wDp3Ba",
-    "contact_form_XWE6VG"
+    "contact_form_XWE6VG",
+    "rich_text_7mk9gp",
+    "text_with_icons_hd4Kha",
+    "text_with_icons_xz4dYb"
   ]
 }
