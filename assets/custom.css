@@ -26,3 +26,11 @@ body {
   font-size:20px;
   line-height:22px;
 }
+.btn{
+  background:#1493F5;
+  color:#ffffff;
+  padding:15px 50px;
+  border-radius:70px;
+  font-size:18px;
+  line-height:22px;
+}
