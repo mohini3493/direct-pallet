@@ -1,0 +1,4 @@
+@font-face {
+  font-family: "trade-gothic-next-lt-pro-bdcn";
+  src: url("{{ 'trade-gothic-next-lt-pro-bdcn' | file_url }}") format("ttf");
+}
