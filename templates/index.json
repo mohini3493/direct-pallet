@@ -57,6 +57,84 @@
         "lazyload_images": true
       }
     },
+    "rich_text_9DTJEK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WqpDiR": {
+          "type": "heading",
+          "settings": {
+            "title": "COMPREHENSVIE WAREHOUSE SOLUTIONS"
+          }
+        },
+        "text_bQGXmL": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>With a broad level of expertise, DPR can serve as the single point of contact for your warehouse project.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WqpDiR",
+        "text_bQGXmL"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "text_columns_HCGytT": {
+      "type": "text-columns",
+      "blocks": {
+        "text_block_i4CGRe": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "WAREHOUSE DESIGN",
+            "text": "<p>Expert Space-Planning Consultation for your specific needs.</p>",
+            "button_label": "Explore",
+            "button_link": "#"
+          }
+        },
+        "text_block_Mt3dPt": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "text_block_YnadzN": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_mask": "none",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.</p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_i4CGRe",
+        "text_block_Mt3dPt",
+        "text_block_YnadzN"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "5c90961c-023a-43ff-a1b9-6c8084ba71fb": {
       "type": "advanced-content",
       "blocks": {
@@ -87,60 +165,6 @@
         "lazyload_images": true
       }
     },
-    "advanced_content_LJJm4q": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_QddmXG": {
-          "type": "image",
-          "settings": {
-            "link": "shopify://collections/vitamin-c-range",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "image_XtD3HW": {
-          "type": "image",
-          "settings": {
-            "link": "shopify://products/himalaya-partysmart-10-capsules",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_QddmXG",
-        "image_XtD3HW"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": true,
-        "lazyload_images": true
-      }
-    },
-    "featured_collection_tAU4pg": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "New Launches",
-        "home_featured_products": "new-launches",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured_collection_Dppn7w": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Himalaya Dark Spot Clearing Range",
-        "home_featured_products": "dark-spot-clearing-turmeric-range",
-        "per_row": 4,
-        "rows": 1,
-        "mobile_scrollable": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "advanced_content_wMYXHf": {
       "type": "advanced-content",
       "blocks": {
@@ -161,138 +185,14 @@
         "space_around": true,
         "lazyload_images": true
       }
-    },
-    "ef135076-bc1f-4595-a6f4-9608f2c377b1": {
-      "type": "featured-collection",
-      "custom_css": [
-        "@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"
-      ],
-      "settings": {
-        "title": "Toothpastes",
-        "home_featured_products": "toothpastes",
-        "per_row": 4,
-        "rows": 2,
-        "mobile_scrollable": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "cca4b04e-f079-4d68-963d-2dd31866f8b4": {
-      "type": "advanced-content",
-      "blocks": {
-        "template--19595009917277__cca4b04e-f079-4d68-963d-2dd31866f8b4-image-1": {
-          "type": "image",
-          "settings": {
-            "link": "https://himalayawellness.uk.com/collections/face-care?filter.p.product_type=Face+Cream",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "53c73f0b-e218-45dd-8a54-04887ea41125": {
-          "type": "image",
-          "settings": {
-            "link": "shopify://collections/body-cream",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--19595009917277__cca4b04e-f079-4d68-963d-2dd31866f8b4-image-1",
-        "53c73f0b-e218-45dd-8a54-04887ea41125"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": true,
-        "lazyload_images": true
-      }
-    },
-    "267bdee4-133a-4b7b-a534-f56495adc645": {
-      "type": "featured-collection",
-      "custom_css": [
-        "@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"
-      ],
-      "settings": {
-        "title": "Personal Care",
-        "home_featured_products": "personal-care",
-        "per_row": 4,
-        "rows": 2,
-        "mobile_scrollable": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "f2474141-32da-42b0-95b3-7f07ce61d8d7": {
-      "type": "slideshow",
-      "blocks": {
-        "template--19595009917277__f2474141-32da-42b0-95b3-7f07ce61d8d7-image-1": {
-          "type": "image",
-          "settings": {
-            "top_subheading": "",
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "shopify://products/himalaya-partysmart-10-capsules",
-            "link_text": "",
-            "link_2": "",
-            "link_text_2": "",
-            "color_accent": "rgba(0,0,0,0)",
-            "text_align": "vertical-center horizontal-center",
-            "parallax_direction": "top",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "template--19595009917277__f2474141-32da-42b0-95b3-7f07ce61d8d7-image-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "section_height": "550px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "bars",
-        "autoplay": true,
-        "autoplay_speed": 5,
-        "lazyload_images": true
-      }
-    },
-    "40ca7201-2aef-4c75-9c99-35505a84292b": {
-      "type": "featured-collection",
-      "custom_css": [
-        "@media only screen and (max-width: 959px) {input, select, textarea {font-size: 10px !important; letter-spacing: 0.1em; }}"
-      ],
-      "settings": {
-        "title": "Supplements",
-        "home_featured_products": "supplements",
-        "per_row": 4,
-        "rows": 3,
-        "mobile_scrollable": false,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "169441078568ab57e8": {
-      "type": "apps",
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
     }
   },
   "order": [
     "scrolling_text_YRUVrj",
     "slideshow_jhWV7V",
+    "rich_text_9DTJEK",
+    "text_columns_HCGytT",
     "5c90961c-023a-43ff-a1b9-6c8084ba71fb",
-    "advanced_content_LJJm4q",
-    "featured_collection_tAU4pg",
-    "featured_collection_Dppn7w",
-    "advanced_content_wMYXHf",
-    "ef135076-bc1f-4595-a6f4-9608f2c377b1",
-    "cca4b04e-f079-4d68-963d-2dd31866f8b4",
-    "267bdee4-133a-4b7b-a534-f56495adc645",
-    "f2474141-32da-42b0-95b3-7f07ce61d8d7",
-    "40ca7201-2aef-4c75-9c99-35505a84292b",
-    "169441078568ab57e8"
+    "advanced_content_wMYXHf"
   ]
 }
