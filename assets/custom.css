@@ -57,3 +57,8 @@ body {
   transform: translateY(-0.5rem);
   color:#111;
 }
+[data-button_style^=round] .btn:not(.btn--secondary):not(.btn--tertiary):not(.btn--inverse):not(.btn--body):not(.btn--static):hover{
+  background-position: 100% !important;
+  transform: translateY(-0.5rem);
+  color:#111;
+}
