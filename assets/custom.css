@@ -22,16 +22,16 @@
   background: #1493F5;
   color: #ffffff;
   border-radius: 70px;
-  transition: 0.3s ease-out;
+  transition: 0.3s ease-out !important;
 }
 .btn {
   color: #ffffff;
-  transition: 0.2s 0.1s;
+  transition: 0.2s 0.1s !important;
 }
 .btn:hover {
   background: #111111;
   color: #1493F5;
-  transition: 0.2s 0.1s;
+  transition: 0.2s 0.1s !important;
 }
 .btn::before {
   bottom: 0; left: 0; right: 0; 
